@@ -8,4 +8,4 @@ I am interested in continuing to expand my experience in systems programming and
 
 ## Featured Projects
 - [Library Book Management System Using Stack](https://github.com/h-roon07/library-stack-system)
-- [Encrypted Substitution Cipher Tool](https://github.com/h-roon07/cipher-tool)
+- [Encrypted Substitution Cipher Tool](https://github.com/h-roon07/Cipher-Tool)
