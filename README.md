@@ -7,5 +7,4 @@ Over the past year, I have worked on projects such as stack-based inventory syst
 I am interested in continuing to expand my experience in systems programming and algorithm design while contributing to projects that require efficient data handling and structured problem solving.
 
 ## Featured Projects
-- [Library Book Management System Using Stack](https://github.com/h-roon07/Library-Book-Management-System)
-- [Encrypted Substitution Cipher Tool](https://github.com/h-roon07/Cipher-Tool)
+- [Library Book Management System Using Stack](https://github.com/h-roon07/Library-Book-Management-
